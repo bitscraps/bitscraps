@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Awesome
+Full Stack Developer with a focus on Rails and React Applications
 
 <!--
 **bitscraps/bitscraps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
